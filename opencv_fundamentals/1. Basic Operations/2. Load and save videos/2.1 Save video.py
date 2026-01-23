@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-cap = cv2.VideoCapture("2. Load and save videos/Rt25.mp4")
+cap = cv2.VideoCapture("Rt25.mp4")
 #cap = cv2.VideoCapture(0)
 
 fourcc = cv2.VideoWriter_fourcc(*'XVID')
